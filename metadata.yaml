@@ -1,0 +1,32 @@
+_repo: Due-North--or-Glimpses-of-Scandinavia-and-Russia_33038
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ballou, Maturin Murray
+    aliases:
+    - Forester, Frank
+    - Ballou, Maturin M. (Maturin Murray)
+    - Murray, Lieutenant
+    - Ballou, M. M. (Maturin Murray)
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '1543'
+    url: http://www.gutenberg.org/2009/agents/1543
+    wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
+description: ''
+gutenberg_issued: '2010-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe, Northern -- Description and travel'
+title: Due North; or, Glimpses of Scandinavia and Russia
+url: http://www.gutenberg.org/ebooks/33038
